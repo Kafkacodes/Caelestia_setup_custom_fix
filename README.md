@@ -1,4 +1,4 @@
-# Caelestia Setup Custom Fix
+# Caelestia Setup Custom Workflow
 
 A customized Arch Linux + Hyprland + Caelestia setup featuring custom workflows, gesture support, clipboard integration, troubleshooting fixes, and quality-of-life improvements.
 
