@@ -85,15 +85,6 @@ configs/
 └── hyprland.lua
 ```
 
-## Tested On
-
-* Archcraft
-* Hyprland
-* Caelestia
-* HP Victus
-* RTX 3050
-* 16GB RAM
-
 
 ## License
 
