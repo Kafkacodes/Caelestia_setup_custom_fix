@@ -1,36 +1,95 @@
-# Hyprland + Caelestia Setup
+# Caelestia Setup Custom Fix
 
-Built on:
-- Archcraft
-- Hyprland
-- Caelestia
-
-Hardware:
-- HP Victus
-- RTX 3050
-- 16GB RAM
+A customized Arch Linux + Hyprland + Caelestia setup featuring custom workflows, gesture support, clipboard integration, troubleshooting fixes, and quality-of-life improvements.
 
 ## Features
 
-- Magic Workspace Gesture
-- Rofi Clipboard Manager
-- Fish Shell
-- Foot Terminal
-- Dashboard Customizations
-- Screenshot Workflow
+* Hyprland + Caelestia setup
+* Magic Workspace (Scratchpad)
+* 3-Finger Touchpad Gestures
+* Rofi Clipboard Manager
+* Fish Shell
+* Foot Terminal
+* Dashboard Customizations
+* Screenshot Workflow
+* Custom Keybinds
+* Troubleshooting Documentation
 
 ## Screenshots
 
-See screenshots folder.
+### Dashboard
 
-## Installation
+![Dashboard](screenshots/dashboard.jpg)
 
-See docs/install.md
+### Clipboard Manager
 
-## Shortcuts
+![Clipboard](screenshots/clipboard.png)
 
-See docs/shortcuts.md
+### Login Screen
 
-## Troubleshooting
+![Login Screen](screenshots/login-screen.jpeg)
 
-See docs/troubleshooting.md
+### Notification Panel
+
+![Notification Panel](screenshots/notification-panel.jpeg)
+
+## Quick Start
+
+Clone the repository:
+
+```bash
+git clone https://github.com/Kafkacodes/Caelestia_setup_custom_fix.git
+
+cd Caelestia_setup_custom_fix
+```
+
+Run the installer:
+
+```bash
+chmod +x scripts/install.sh
+
+./scripts/install.sh
+```
+
+## Documentation
+
+### Setup
+
+* [Installation Guide](docs/installation.md)
+* [Features](docs/features.md)
+
+### Configuration
+
+* [Gestures](docs/gestures.md)
+* [Clipboard Manager](docs/clipboard.md)
+
+### Usage
+
+* [Keyboard Shortcuts](docs/shortcuts.md)
+
+### Troubleshooting
+
+* [Troubleshooting Guide](docs/troubleshooting.md)
+
+## Included Configurations
+
+```text
+configs/
+├── fish/
+├── foot/
+└── hyprland.lua
+```
+
+## Tested On
+
+* Archcraft
+* Hyprland
+* Caelestia
+* HP Victus
+* RTX 3050
+* 16GB RAM
+
+
+## License
+
+Feel free to use, modify, and adapt these configurations for your own setup.
