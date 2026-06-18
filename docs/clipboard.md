@@ -1,4 +1,4 @@
-# Clipboard Manager
+# Clipboard History
 
 This setup uses:
 
