@@ -4,7 +4,7 @@
 
 * Hyprland window manager
 * Caelestia shell integration
-* Archcraft base system
+* Arch (Linux) base system
 
 ## Customizations
 
