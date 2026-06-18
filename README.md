@@ -2,6 +2,10 @@
 
 A customized Arch Linux + Hyprland + Caelestia setup featuring custom workflows, gesture support, clipboard integration, troubleshooting fixes, and quality-of-life improvements.
 
+caelestia dot files from :- https://github.com/caelestia-dots/shell
+*THIS IS JUST MY OWN CONFIGURATION FOR WORKFLOW NOT THE WHOLE CAELESTIA SETUP*
+
+
 ## Features
 
 * Hyprland + Caelestia setup
