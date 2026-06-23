@@ -24,7 +24,7 @@ caelestia dot files from :- https://github.com/caelestia-dots/shell.
 
 ### Dashboard
 
-![Dashboard](https://github.com/user-attachments/assets/642f21e6-a9c2-445a-b063-22c02fe016ec)
+https://github.com/user-attachments/assets/642f21e6-a9c2-445a-b063-22c02fe016ec
 
 ### Clipboard Manager
 
